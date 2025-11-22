@@ -194,15 +194,14 @@ npm start
 This will start the development server:
 
 http://localhost:3000
-
 📸 Screenshots
+<img width="1891" height="921" alt="Screenshot 2025-11-20 091608" src="https://github.com/user-attachments/assets/bce7c68f-194e-4a71-ac6d-36d2be1c0c21" />
+<img width="1395" height="905" alt="Screenshot 2025-11-20 091933" src="https://github.com/user-attachments/assets/1a7e39c9-a3b9-4d99-9a99-ec74615e9445" />
 
-(Add your screenshots here in GitHub after uploading images in issues → copy image link)
+<img width="1728" height="803" alt="Screenshot 2025-11-20 091829" src="https://github.com/user-attachments/assets/ff17086d-e3d4-47f9-ae54-7506746e7b9b" />
 
-Example:
+<img width="793" height="836" alt="Screenshot 2025-11-20 092021" src="https://github.com/user-attachments/assets/09d5bf81-866c-4196-b1ed-ca9d9d3a8502" />
 
-![Home Screen](https://your-image-link.png)
-![Simulator](https://your-image-link.png)
 
 📘 How to Use
 1️⃣ Select Algorithm
